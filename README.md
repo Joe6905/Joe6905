@@ -9,9 +9,13 @@
   <img src="https://img.shields.io/badge/Backend%20Developer-%2300BFFF.svg?style=for-the-badge&logo=backenddeveloper&logoColor=white"/>
 </p>
 
+---
+
 ## 🚀 About Me
 
 I'm a passionate **cybersecurity expert** with a love for **pentesting** and **system protection**. My skill set spans across **web development**, **blockchain**, and **cryptography**. I thrive on solving complex security challenges and am always eager to learn and grow.
+
+---
 
 ## 🛠️ Skills
 
@@ -40,6 +44,8 @@ I'm a passionate **cybersecurity expert** with a love for **pentesting** and **s
   <img src="https://img.shields.io/badge/Nmap-%23000342.svg?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
+---
+
 ## 🌟 Projects
 
 ### **[Secure Web Application](https://github.com/Joe6905/project1)**
@@ -51,12 +57,16 @@ A simplified blockchain implementation showcasing the basics of blockchain techn
 ### **[Penetration Testing Toolkit](https://github.com/Joe6905/project3)**
 A collection of tools and scripts designed for web application penetration testing.
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joe6905&show_icons=true&theme=radical" alt="Joe's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joe6905&theme=radical" alt="Joe's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe6905&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
 
 ## 🤝 Connect with Me
 
@@ -69,11 +79,15 @@ A collection of tools and scripts designed for web application penetration testi
   <a href="https://www.facebook.com/jothish.m"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
+---
+
 ## 🎯 Goals
 
 - **Expand my knowledge** in blockchain and advanced cryptography.
 - **Contribute to open-source** projects related to cybersecurity.
 - **Build a community** around cybersecurity education and awareness.
+
+---
 
 ## 💬 Let's Collaborate!
 I'm always open to exciting projects, especially in the areas of **cybersecurity** and **blockchain**. Feel free to reach out to discuss potential collaborations.
