@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 🔱 About Me
 
 I'm a passionate **cybersecurity expert** with a love for **pentesting** and **system protection**. My skill set spans across **web development**, **blockchain**, and **cryptography**. I thrive on solving complex security challenges and am always eager to learn and grow.
 
