@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Jothish** (aka Joe6905)!
+# 👋 Hi there, I'm **Jothish** (aka Joe)!
 
 ![GitHub Banner](https://i.ibb.co/qk8y3qx/github-header-image-2.png)
 
