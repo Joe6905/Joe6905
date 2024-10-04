@@ -2,13 +2,17 @@
 
 ![GitHub Banner](https://i.ibb.co/qk8y3qx/github-header-image-2.png)
 
-<p >
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Joe6905.visitor-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-%231A1A1A.svg?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blockchain%20Fan-%23333.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend%20Developer-%23000.svg?style=for-the-badge&logo=frontenddeveloper&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend%20Developer-%2300BFFF.svg?style=for-the-badge&logo=backenddeveloper&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%234CAF50.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
+
+---
+
 
 ---
 
