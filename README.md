@@ -1,9 +1,12 @@
 # 👋 Hi there, I'm **Jothish** (aka Joe)!
 
 ![GitHub Banner](https://i.ibb.co/qk8y3qx/github-header-image-2.png)
+<h4 align="left">Visitor's count :eyes:</h4>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{joe6905}/count.svg" alt=" Visitor's Count" /></p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Joe6905.visitor-badge" alt="Profile Views" />
+  
   <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-%231A1A1A.svg?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blockchain%20Fan-%23333.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend%20Developer-%23000.svg?style=for-the-badge&logo=frontenddeveloper&logoColor=white"/>
