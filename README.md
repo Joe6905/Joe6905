@@ -69,20 +69,20 @@ A simplified blockchain implementation that demonstrates core concepts such as p
 
 
 
-### [🚀 Full-Stack Social Media Platform]
+### 🚀 Full-Stack Social Media Platform
 A fully functional social media application built with React and Node.js, featuring JWT-based authentication and RESTful API integration. **Connecting people made easy!**
 
-### [🎵 Spotify Web Player](https://github.com/Joe6905/spotify-web-player)
+### 🎵 Spotify Web Player
 A personal portfolio project utilizing HTML, CSS, and JavaScript to create a web player that interacts with the Spotify API. **Listen to your favorite tracks seamlessly!**
 
 ---
 
 ## ⚙️ Ongoing Projects
 
-### [🎫 Virtual Event Ticketing](https://github.com/Joe6905/virtual-event-ticketing)
+### 🎫 Virtual Event Ticketing
 A project focused on implementing blockchain-based ticketing technologies using **Solidity**, **Ethereum**, and **MetaMask** to create and manage NFT tickets for virtual events. **Revolutionizing event ticketing!**
 
-### [⏳ Time Capsule](https://github.com/Joe6905/time-capsule)
+### ⏳ Time Capsule
 A time capsule project built with **Django** for the backend and **React** for the frontend, utilizing **HTML** and **CSS** for design. It employs **Ganache** for local Ethereum blockchain testing. **Preserve memories for the future!**
 
 ---
