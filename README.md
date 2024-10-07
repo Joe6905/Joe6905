@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm **Jothish** (aka Joe)!
 
 ![GitHub Banner](https://i.ibb.co/qk8y3qx/github-header-image-2.png)
-<h4 align="left">Visitor's count :eyes:</h4>
+<h4 align="left">Visitor's Count :eyes:</h4>
 
-<p align="left"><img src="https://profile-counter.glitch.me/{joe6905}/count.svg" alt=" Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{joe6905}/count.svg" alt="Visitor's Count" /></p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-%231A1A1A.svg?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blockchain%20Fan-%23333.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend%20Developer-%23000.svg?style=for-the-badge&logo=frontenddeveloper&logoColor=white"/>
@@ -16,19 +15,16 @@
 
 ---
 
-
----
-
 ## 🔱 About Me
 
-I'm a passionate **cybersecurity expert** with a love for **pentesting**, **system protection**, and a **blockchain enthusiast**. My skill set spans across **web development**, **blockchain**, and **cryptography**. I thrive on solving complex security challenges and am always eager to learn and grow.
+I'm a passionate **cybersecurity expert** specializing in **penetration testing** and **system protection**. As a **blockchain enthusiast**, I’m deeply interested in decentralized technologies and their applications. I thrive on solving complex security challenges and am always eager to expand my skill set in web development, blockchain, and cryptography.
 
 ### 🔒 Key Interests:
-- Penetration Testing
-- Blockchain Development
-- Web Application Security
-- System Protection & Monitoring
-- Cryptography & Secure Communication
+- 🔍 **Penetration Testing**
+- 🌐 **Blockchain Development**
+- 🔒 **Web Application Security**
+- 🛡️ **System Protection & Monitoring**
+- 🔑 **Cryptography & Secure Communication**
 
 ---
 
@@ -67,17 +63,27 @@ I'm a passionate **cybersecurity expert** with a love for **pentesting**, **syst
 
 ## 🌟 Featured Projects
 
-### [🔒 Secure Web Application](https://github.com/Joe6905/project1)
-A Django-based web application with advanced security measures to safeguard user data, including encryption and attack mitigation techniques.
 
-### [🌐 Blockchain Demo](https://github.com/Joe6905/project2)
-A simplified blockchain implementation demonstrating core concepts such as proof-of-work and transaction validation.
+### [🌐 Blockchain Demo]
+A simplified blockchain implementation that demonstrates core concepts such as proof-of-work and transaction validation. **Dive into the world of decentralized technologies!**
 
-### [🛡️ Penetration Testing Toolkit](https://github.com/Joe6905/project3)
-A custom collection of tools and scripts designed for efficient web application penetration testing.
 
-### [🚀 Full-Stack Social Media Platform](https://github.com/Joe6905/project4)
-A fully functional social media application built with React and Node.js, featuring JWT-based authentication and RESTful API integration.
+
+### [🚀 Full-Stack Social Media Platform]
+A fully functional social media application built with React and Node.js, featuring JWT-based authentication and RESTful API integration. **Connecting people made easy!**
+
+### [🎵 Spotify Web Player](https://github.com/Joe6905/spotify-web-player)
+A personal portfolio project utilizing HTML, CSS, and JavaScript to create a web player that interacts with the Spotify API. **Listen to your favorite tracks seamlessly!**
+
+---
+
+## ⚙️ Ongoing Projects
+
+### [🎫 Virtual Event Ticketing](https://github.com/Joe6905/virtual-event-ticketing)
+A project focused on implementing blockchain-based ticketing technologies using **Solidity**, **Ethereum**, and **MetaMask** to create and manage NFT tickets for virtual events. **Revolutionizing event ticketing!**
+
+### [⏳ Time Capsule](https://github.com/Joe6905/time-capsule)
+A time capsule project built with **Django** for the backend and **React** for the frontend, utilizing **HTML** and **CSS** for design. It employs **Ganache** for local Ethereum blockchain testing. **Preserve memories for the future!**
 
 ---
 
@@ -99,6 +105,7 @@ A fully functional social media application built with React and Node.js, featur
 - **Explore new technologies** like AI and how they intersect with **security**.
 
 ---
+
 
 ## 🤝 Connect with Me
 
