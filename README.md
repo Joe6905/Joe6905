@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Jothish** (aka Joe)!
 
-![GitHub Banner](https://i.ibb.co/qk8y3qx/github-header-image-2.png)
+![GitHub Banner](https://i.ibb.co/rtPbp2g/DALL-E-2024-10-22-00-29-06-A-minimal-3-D-style-Git-Hub-banner-featuring-the-Git-Hub-Octocat-as-the-c.webp)
 <h4 align="left">Visitor's Count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{joe6905}/count.svg" alt="Visitor's Count" /></p>
